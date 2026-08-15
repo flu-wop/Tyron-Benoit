@@ -13,7 +13,7 @@ export default function Home() {
           alt="Tyron Benoit Band"
           fill
           priority
-          className="object-cover opacity-70"
+          className="object-cover opacity-35"
         />
         <div className="relative z-10 mx-auto w-full max-w-6xl px-6">
           <p className="mb-4 font-mono text-xs uppercase tracking-[0.3em] text-gold">
