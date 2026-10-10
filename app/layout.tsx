@@ -25,6 +25,7 @@ const dmMono = DM_Mono({
 
 export const metadata: Metadata = {
   title: "Tyron Benoit Band | Hope You Find Heaven",
+  robots: { index: false, follow: false }, // preview: remove at launch
   description:
     "Tyron Benoit Band — soul-driven country rock spiked with Louisiana heat. New single 'Hope You Find Heaven,' out now.",
 };
