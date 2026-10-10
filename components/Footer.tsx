@@ -34,6 +34,10 @@ export default function Footer() {
         <p className="font-mono text-[11px] text-border">
           &copy; {new Date().getFullYear()} Tyron Benoit Band. All rights reserved.
         </p>
+        <p className="font-mono text-[11px] text-border">
+          Designed by{" "}
+          <a href="https://in-flu-ential.vercel.app" target="_blank" rel="noopener noreferrer" className="hover:text-gold">IN-FLU-ENTIAL</a>
+        </p>
       </div>
     </footer>
   );
